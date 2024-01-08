@@ -4,13 +4,6 @@ Big Data Individual Assignment
  ``` Temesgen Debebe id 0888/12 ```
 
 
-
-
-
-
-
-
-
 ## README For Big data Assignment one 
 
 ## Data Cleaning, Exploratory Analysis, and Insights
