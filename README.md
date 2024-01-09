@@ -1,5 +1,5 @@
-#Big Data Individual Assignment 
-
+# Big Data Individual Assignment 
+ i use a three defferent datasets to analysis and  visualize based on defferent quastion  for each dataset atlist  6 and more than  quastions  to show  using python 
 ## Name
  ``` Temesgen Debebe id 0888/12 💻 ```
 
