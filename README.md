@@ -1,10 +1,10 @@
 #Big Data Individual Assignment 
 
 ## Name
- ``` Temesgen Debebe id 0888/12 ```
+ ``` Temesgen Debebe id 0888/12 💻 ```
 
 
-## README For Big data Assignment one 
+## README For Big data Assignment one 1️⃣
 
 ## Data Cleaning, Exploratory Analysis, and Insights
 
@@ -52,7 +52,7 @@ In conclusion, the exploratory analysis sheds light on interesting patterns and 
 
 
 
-## README For Big data Assignment Two 
+## README For Big data Assignment Two 2️⃣
 
 
 ## Dataset Analysis Project
@@ -87,7 +87,7 @@ In conclusion, the analysis of the dataset reveals valuable insights into the po
 
 
 
-## README For Big data Assignment Three
+## README For Big data Assignment Three 3️⃣
 
 
 ## Employee Turnover Analysis
