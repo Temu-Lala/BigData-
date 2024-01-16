@@ -131,5 +131,6 @@ The analysis provides insights into employee turnover across various dimensions 
 
 ## Conclusion
 In conclusion, the exploratory analysis reveals valuable patterns and trends related to employee turnover. The insights gained from visualizations help identify potential areas for improvement in employee retention strategies. Understanding the factors contributing to turnover is crucial for HR and management to make informed decisions and create a positive work environment.
-
+# LICENSE 
+## Name  ```Temesgen Debebe id 0888/12 💻```
 
