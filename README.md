@@ -4,15 +4,15 @@
 Key elements of my analysis include:
 
 ### Dataset Selection:
-I'll carefully handpick three datasets spanning distinct domains to ensure a breadth of knowledge discovery.
+``` I'll carefully handpick three datasets spanning distinct domains to ensure a breadth of knowledge discovery.```
 ### Question Formulation:
-I'll craft a diverse array of questions that probe into central themes, explore patterns and relationships, and uncover potential anomalies within each dataset.
+``` I'll craft a diverse array of questions that probe into central themes, explore patterns and relationships, and uncover potential anomalies within each dataset.```
 ### Visualization Creation: 
-I'll employ Python's rich visualization libraries to create clear and engaging visual representations that effectively communicate insights to a wide audience.
+``` I'll employ Python's rich visualization libraries to create clear and engaging visual representations that effectively communicate insights to a wide audience.```
 ### Insights and Interpretations:
-I'll provide comprehensive interpretations of the visual findings, drawing meaningful conclusions and implications relevant to the respective domains.## Name
+``` I'll provide comprehensive interpretations of the visual findings, drawing meaningful conclusions and implications relevant to the respective domains.```
 
- # ``` Temesgen Debebe id 0888/12 💻 ```
+ #  Name ``` Temesgen Debebe id 0888/12 💻 ```
 
 
 ## README For Big data Assignment one 1️⃣
