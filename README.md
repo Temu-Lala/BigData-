@@ -1,3 +1,6 @@
+#### Name  ```Temesgen Debebe id 0888/12 💻```
+
+
 # Big Data Individual Assignment 
  leveraging Python's powerful tools to uncover insights from three diverse datasets. For each dataset, I'll meticulously formulate and address at least six compelling questions, drawing meaningful conclusions through insightful visualizations.
 
