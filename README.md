@@ -7,7 +7,7 @@
 Key elements of my analysis include:
 
 ### Dataset Selection:
-``` I'll carefully handpick three datasets spanning distinct domains to ensure a breadth of knowledge discovery.```
+``` I'll carefully handpick three datasets spanning distinct domains to ensure a breadth of knowledge discovery```
 ### Question Formulation:
 ``` I'll craft a diverse array of questions that probe into central themes, explore patterns and relationships, and uncover potential anomalies within each dataset.```
 ### Visualization Creation: 
